@@ -1,0 +1,37 @@
+body    {
+    background-color: rgb(73, 55, 20);
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 5%;
+}
+
+h1  {
+    color: rgb(171, 221, 106);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-size: 3rem;
+}
+
+a   {
+    color: rgb(252, 185, 205);
+}
+
+li  {
+    color: burlywood;
+    font-size: 1.10rem;
+}
+
+p {
+    color: bisque;
+}
+
+h2 {
+    color: rgb(39, 131, 74);
+}
+
+img {
+    width: 400px;
+    height: auto;
+    padding: 5%;
+}
